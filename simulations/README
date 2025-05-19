@@ -1,4 +1,7 @@
-
 This directory contains the Simulink models, initialisation scripts, 
-input data, and analysis scripts used for the simulations described in
-Chapter 5 of the Project Report.
+input data, and analysis scripts used in the simulations for Chapter 5 of the Project Report.
+
+Each folder is set up as a separate experiment, so you can run and reproduce 
+results independently. Some simulations use the same .mat files or workspaces, 
+but to keep things simple, I’ve copied those files into each folder. 
+This avoids any confusion during setup.
